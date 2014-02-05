@@ -4,8 +4,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello,world~");
 		System.out.println("Hello,world~");
-
-
 	}
 
 }
